@@ -31,7 +31,8 @@
 - KcELECTRA, KoBART, KcBERT, RoBERTa 중 정확도가 가장 높았던 KoBART 선정
 ![image](https://github.com/bohyunee/ReviewSentimentAnalysis/assets/93997717/bd745d7d-9232-4b58-a979-a71a1bc55900)
 #### 5. 리뷰 예측 진행
-#### 6. 예측 결과 분석 (임의의 식당 3곳 기반)
+#### 6. 예측 결과 분석
+
 
 ## 🍽 분석 결과
 #### 예측 모델 적용
